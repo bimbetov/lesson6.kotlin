@@ -1,0 +1,5 @@
+Lesson 6.
+1) Single Abstract Method
+2) elvis()
+3) Lambdas are resource intensive and shouldn’t be used.
+4) @
